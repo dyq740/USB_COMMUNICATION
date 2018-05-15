@@ -1,0 +1,14 @@
+..\obj\stm32f10x_bkp.o: ..\fwlib\src\stm32f10x_bkp.c
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_bkp.h
+..\obj\stm32f10x_bkp.o: ..\user\stm32f10x.h
+..\obj\stm32f10x_bkp.o: ..\core\core_cm3.h
+..\obj\stm32f10x_bkp.o: C:\software\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f10x_bkp.o: ..\user\system_stm32f10x.h
+..\obj\stm32f10x_bkp.o: ..\user\stm32f10x_conf.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_dma.h
+..\obj\stm32f10x_bkp.o: ..\user\stm32f10x.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_gpio.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_pwr.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_rcc.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\stm32f10x_usart.h
+..\obj\stm32f10x_bkp.o: ..\fwlib\inc\misc.h

@@ -1,0 +1,14 @@
+..\obj\misc.o: ..\fwlib\src\misc.c
+..\obj\misc.o: ..\fwlib\inc\misc.h
+..\obj\misc.o: ..\user\stm32f10x.h
+..\obj\misc.o: ..\core\core_cm3.h
+..\obj\misc.o: C:\software\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\misc.o: ..\user\system_stm32f10x.h
+..\obj\misc.o: ..\user\stm32f10x_conf.h
+..\obj\misc.o: ..\fwlib\inc\stm32f10x_dma.h
+..\obj\misc.o: ..\user\stm32f10x.h
+..\obj\misc.o: ..\fwlib\inc\stm32f10x_gpio.h
+..\obj\misc.o: ..\fwlib\inc\stm32f10x_pwr.h
+..\obj\misc.o: ..\fwlib\inc\stm32f10x_rcc.h
+..\obj\misc.o: ..\fwlib\inc\stm32f10x_usart.h
+..\obj\misc.o: ..\fwlib\inc\misc.h

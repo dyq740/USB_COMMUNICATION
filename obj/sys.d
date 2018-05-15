@@ -1,0 +1,14 @@
+..\obj\sys.o: ..\system\sys\sys.c
+..\obj\sys.o: ..\system\sys\sys.h
+..\obj\sys.o: ..\user\stm32f10x.h
+..\obj\sys.o: ..\core\core_cm3.h
+..\obj\sys.o: C:\software\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sys.o: ..\user\system_stm32f10x.h
+..\obj\sys.o: ..\user\stm32f10x_conf.h
+..\obj\sys.o: ..\fwlib\inc\stm32f10x_dma.h
+..\obj\sys.o: ..\user\stm32f10x.h
+..\obj\sys.o: ..\fwlib\inc\stm32f10x_gpio.h
+..\obj\sys.o: ..\fwlib\inc\stm32f10x_pwr.h
+..\obj\sys.o: ..\fwlib\inc\stm32f10x_rcc.h
+..\obj\sys.o: ..\fwlib\inc\stm32f10x_usart.h
+..\obj\sys.o: ..\fwlib\inc\misc.h
